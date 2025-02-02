@@ -1,0 +1,15 @@
+{
+  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
+  "name": "gdlib-editorcolors",
+  "description": "A simple lib for working with editor color settings",
+  "version": "0.0.0",
+  "cache": "../.addons",
+  "addons": {
+    "gdlib-editorui": {
+      "url": "https://github.com/TravelSizedLions/gdlib-editorui.git",
+      "source": "remote",
+      "checkout": "dev",
+      "subfolder": "addons/gdlib-editorui"
+    }
+  }
+}
