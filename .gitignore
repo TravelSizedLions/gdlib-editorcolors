@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+!.editorconfig
+
+.addons/
+addons/*
+!addons/gdlib-editorcolors
