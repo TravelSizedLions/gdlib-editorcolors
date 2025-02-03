@@ -8,7 +8,7 @@
     "gdlib-editorui": {
       "url": "https://github.com/TravelSizedLions/gdlib-editorui.git",
       "source": "remote",
-      "checkout": "dev",
+      "checkout": "v0.0.4",
       "subfolder": "addons/gdlib-editorui"
     }
   }
